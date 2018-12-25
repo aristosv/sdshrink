@@ -31,7 +31,7 @@ How to shrink a Raspbian SD card
 
 ![alt text](https://github.com/aristosv/sdshrink/blob/master/step7.png)
 
-10. This is the end result. It's exactly how you want the SD to be. Shrunk down with some free space. The rest of the SD is unallocated.
+10. This is exactly how you want the SD to be. Shrunk down with some free space. The rest of the SD is unallocated.
 
 ![alt text](https://github.com/aristosv/sdshrink/blob/master/step8.png)
 
