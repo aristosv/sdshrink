@@ -15,6 +15,6 @@ How to shrink a Raspbian SD card
 
 ![alt text](https://github.com/aristosv/sdshrink/blob/master/step3.png)
 
-6. Modify that number so you add some free space to the partition.
+6. Modify that number so you add some free space to the partition and click "OK"
 
 ![alt text](https://github.com/aristosv/sdshrink/blob/master/step4.png)
