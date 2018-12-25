@@ -39,7 +39,7 @@ Software needed:
 
 ![alt text](https://github.com/aristosv/sdshrink/blob/master/step08.png)
 
-09. Open [Win32 Disk Imager](https://sourceforge.net/projects/win32diskimager/files/latest/download) and create an image of the SD. Its size will be the full size of your SD (eg. 16GB)
+09. Open Win32 Disk Imager and create an image of the SD. Its size will be the full size of your SD (eg. 16GB)
 
 ![alt text](https://github.com/aristosv/sdshrink/blob/master/step09.png)
 
