@@ -19,6 +19,6 @@ How to shrink a Raspbian SD card
 
 ![alt text](https://github.com/aristosv/sdshrink/blob/master/step4.png)
 
-7. Click "Apply"
+7. Click "Apply" and then "Yes"
 
 ![alt text](https://github.com/aristosv/sdshrink/blob/master/step5.png)
