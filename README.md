@@ -10,3 +10,7 @@ How to shrink a Raspbian SD card
 4. Select the right edge of your SD card, and drag it all the way to the left.
 
 ![alt text](https://github.com/aristosv/sdshrink/blob/master/step2.png)
+
+5. A popup will show you the minimum size you can shrink the SD.
+
+![alt text](https://github.com/aristosv/sdshrink/blob/master/step3.png)
