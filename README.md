@@ -31,7 +31,7 @@ How to shrink a Raspbian SD card
 
 ![alt text](https://github.com/aristosv/sdshrink/blob/master/step7.png)
 
-10. This is the end result. It's exactly how you want the SD to be.
+10. This is the end result. It's exactly how you want the SD to be. Shrunk down with some free sace.
 
 ![alt text](https://github.com/aristosv/sdshrink/blob/master/step8.png)
 
