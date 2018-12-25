@@ -14,3 +14,7 @@ How to shrink a Raspbian SD card
 5. A popup will show you the minimum size you can shrink the SD.
 
 ![alt text](https://github.com/aristosv/sdshrink/blob/master/step3.png)
+
+6. Modify that number so you add some free space to the partition.
+
+![alt text](https://github.com/aristosv/sdshrink/blob/master/step4.png)
