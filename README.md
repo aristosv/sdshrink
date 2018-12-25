@@ -45,3 +45,7 @@ Software needed:
 10. Run "gdisk64.exe -l big_image.img" and write down the "End" sector of the "Linux filesystem" partition.
 
 ![alt text](https://github.com/aristosv/sdshrink/blob/master/step10.png)
+
+11. Run "ddrelease64.exe --progress if="big_image.img" of="small_image.img" bs=512 count=3665919" <-- Number from previous step.
+
+![alt text](https://github.com/aristosv/sdshrink/blob/master/step11.png)
