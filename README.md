@@ -46,6 +46,6 @@ Software needed:
 
 ![alt text](https://github.com/aristosv/sdshrink/blob/master/step10.png)
 
-11. Run "ddrelease64.exe --progress if="big_image.img" of="small_image.img" bs=512 count=3665919" <-- Number from previous step.
+11. Run "ddrelease64.exe --progress if="big_image.img" of="small_image.img" bs=512 count=**3665919**".
 
 ![alt text](https://github.com/aristosv/sdshrink/blob/master/step11.png)
