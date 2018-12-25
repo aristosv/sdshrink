@@ -22,3 +22,7 @@ How to shrink a Raspbian SD card
 7. Click "Apply" and then "Yes"
 
 ![alt text](https://github.com/aristosv/sdshrink/blob/master/step5.png)
+
+8. This will take a few minutes depending on the size of the SD.
+
+![alt text](https://github.com/aristosv/sdshrink/blob/master/step6.png)
