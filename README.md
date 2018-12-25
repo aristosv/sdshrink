@@ -34,3 +34,7 @@ How to shrink a Raspbian SD card
 10. This is the end result. It's exactly how you want the SD to be.
 
 ![alt text](https://github.com/aristosv/sdshrink/blob/master/step8.png)
+
+11. Open [Win32 Disk Imager](https://sourceforge.net/projects/win32diskimager/files/latest/download) and create an image of the SD.
+
+![alt text](https://github.com/aristosv/sdshrink/blob/master/step9.png)
