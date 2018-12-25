@@ -41,3 +41,7 @@ Software needed:
 09. Open [Win32 Disk Imager](https://sourceforge.net/projects/win32diskimager/files/latest/download) and create an image of the SD. Its size will be the full size of your SD (eg. 16GB)
 
 ![alt text](https://github.com/aristosv/sdshrink/blob/master/step9.png)
+
+10. Run "gdisk64.exe -l big_image.img" and write down the "End" sector of the "Linux filesystem" partition.
+
+![alt text](https://github.com/aristosv/sdshrink/blob/master/step10.png)
