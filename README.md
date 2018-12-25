@@ -49,3 +49,9 @@ Software needed:
 11. Run "ddrelease64.exe --progress if="big_image.img" of="small_image.img" bs=512 count=**3665919**".
 
 ![alt text](https://github.com/aristosv/sdshrink/blob/master/step11.png)
+
+12. Notice the size difference after shrinking the image.
+
+![alt text](https://github.com/aristosv/sdshrink/blob/master/step12.png)
+
+There you go! :)
