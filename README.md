@@ -4,6 +4,7 @@ How to shrink a Raspbian SD card
 Software needed:
 - [GPT fdisk](https://sourceforge.net/projects/gptfdisk/)
 - [dd for windows](http://www.chrysocome.net/dd)
+- [Win32 Disk Imager](https://sourceforge.net/projects/win32diskimager/files/latest/download)
 - [PARAGON Partition Manager Free](https://www.paragon-software.com/free/pm-express/)
 
 01. Insert the SD card in your computer, open PARAGON Partition Manager Free and select "Partition Manager"
